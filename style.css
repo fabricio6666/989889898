@@ -3,13 +3,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f4d03f ;
     color: #333;
 }
 
 header {
-    background-color: #5c0e0e;
-    color: #fff;
+    background-color: #46ff33 
+    ; 
+    ;
+    color: #333;
     padding: 1em 0;
     text-align: center;
 }
@@ -49,8 +51,8 @@ nav a {
 }
 
 .movie-item {
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color: #fb0000 ;
+    border: 1px solid #73067c;
     border-radius: 5px;
     width: 100%;
     max-width: 200px;
@@ -76,5 +78,5 @@ footer {
     text-align: center;
     padding: 20px;
     background-color: #333;
-    color: #fff;
+    color: #00fff0;
 }
